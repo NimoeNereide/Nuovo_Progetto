@@ -9,4 +9,6 @@ def moltiplicazione():
     else:
         print("tutto ok")
 
-        
+
+
+moltiplicazione()
